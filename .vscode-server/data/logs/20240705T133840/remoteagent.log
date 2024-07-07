@@ -1,0 +1,12 @@
+2024-07-05 13:38:40.598 [info] 
+
+
+
+
+2024-07-05 13:38:40.619 [info] Extension host agent started.
+2024-07-05 13:38:40.916 [info] [<unknown>][3dbb034a][ManagementConnection] New connection established.
+2024-07-05 13:38:40.917 [info] [<unknown>][c632a8b5][ExtensionHostConnection] New connection established.
+2024-07-05 13:38:41.037 [info] [<unknown>][c632a8b5][ExtensionHostConnection] <2121> Launched Extension Host Process.
+2024-07-05 13:39:09.723 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/azureuser/.vscode-server/data/logs/20240627T142700/exthost1/output_logging_20240627T142703' failed: No such file or directory (EUNKNOWN) (path: /home/azureuser)
+2024-07-05 13:39:09.723 [error] [File Watcher (universal)] inotify_add_watch on '/home/azureuser/.vscode-server/data/logs/20240627T142700/exthost1/output_logging_20240627T142703' failed: No such file or directory
+2024-07-05 13:43:40.620 [info] New EH opened, aborting shutdown

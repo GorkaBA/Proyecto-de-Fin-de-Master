@@ -1,0 +1,22 @@
+2024-07-03 17:15:20.117 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-03 17:15:21.162 [info] [Info  - 5:15:20 PM] (2264) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-03 17:15:21.163 [info] [Info  - 5:15:21 PM] (2264) Server root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-03 17:15:21.164 [info] [Info  - 5:15:21 PM] (2264) Starting service instance "azureuser"
+2024-07-03 17:15:21.206 [info] Auto-Indent enabled
+2024-07-03 17:15:21.235 [info] Auto-Indent enabled
+2024-07-03 17:15:21.237 [info] [Info  - 5:15:21 PM] (2264) Setting pythonPath for service "azureuser": "/bin/python3"
+2024-07-03 17:15:21.237 [info] [Info  - 5:15:21 PM] (2264) Setting environmentName for service "azureuser": "3.8.10 (global)"
+2024-07-03 17:15:21.300 [info] [Info  - 5:15:21 PM] (2264) Assuming Python version 3.8.10.final.0
+2024-07-03 17:15:21.546 [info] [Info  - 5:15:21 PM] (2264) Auto-excluding /home/azureuser/airflow/env
+2024-07-03 17:15:27.454 [info] [Info  - 5:15:27 PM] (2264) Found 19 source files
+2024-07-03 17:15:27.459 [info] Auto-Indent enabled
+2024-07-03 17:15:27.483 [info] [Info  - 5:15:27 PM] (2264) Background analysis(1) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-03 17:15:27.484 [info] [Info  - 5:15:27 PM] (2264) Background analysis(1) started
+2024-07-03 17:15:29.900 [info] [Info  - 5:15:29 PM] (2264) Indexer background runner(2) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-03 17:15:29.902 [info] [Info  - 5:15:29 PM] (2264) Indexing(2) started
+2024-07-03 17:15:32.442 [info] [Info  - 5:15:32 PM] (2264) [IDX(2)] Long operation: scan packages file:///home/azureuser (2359ms)
+2024-07-03 17:15:32.443 [info] [Info  - 5:15:32 PM] (2264) scanned(2) 277 files over 1 exec env
+2024-07-03 17:15:33.879 [info] [Info  - 5:15:33 PM] (2264) indexed(2) 193 files over 1 exec env
+2024-07-03 17:15:34.112 [info] [Info  - 5:15:34 PM] (2264) Indexing finished(2).
+2024-07-03 17:15:38.264 [info] [Info  - 5:15:38 PM] (2264) [BG(1)] Long operation: checking: file:///home/azureuser/ETL.py (9012ms)
+2024-07-03 17:15:38.264 [info] [Info  - 5:15:38 PM] (2264) [BG(1)] Long operation: analyzing: file:///home/azureuser/ETL.py (10637ms)

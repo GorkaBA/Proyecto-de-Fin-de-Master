@@ -1,0 +1,47 @@
+2024-07-07 17:21:10.342 [info] Log level: Info
+2024-07-07 17:21:10.343 [info] Validating found git in: "git"
+2024-07-07 17:21:10.343 [info] Using git "2.25.1" from "git"
+2024-07-07 17:21:10.343 [info] > git rev-parse --show-toplevel [16ms]
+2024-07-07 17:21:10.343 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-07-07 17:21:10.343 [info] Open repository: /home/azureuser
+2024-07-07 17:21:10.343 [info] > git config --get commit.template [10ms]
+2024-07-07 17:21:10.343 [info] > git rev-parse --show-toplevel [7ms]
+2024-07-07 17:21:10.343 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-07-07 17:21:10.343 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-07 17:21:10.343 [info] > git rev-parse --show-toplevel [6ms]
+2024-07-07 17:21:10.345 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-07 17:21:10.560 [info] > git rev-parse --show-toplevel [199ms]
+2024-07-07 17:21:10.569 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-07 17:21:10.663 [info] > git rev-parse --show-toplevel [6ms]
+2024-07-07 17:21:10.676 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-07 17:21:10.687 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.694 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.707 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-07 17:21:10.718 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.730 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.738 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.746 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.754 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.762 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:21:10.778 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-07 17:21:10.804 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-07 17:21:11.478 [info] > git status -z -uall [1172ms]
+2024-07-07 17:21:11.478 [info] > git show --textconv :carga_de_datos/mPrediccionMonthly.py [417ms]
+2024-07-07 17:21:11.503 [info] > git ls-files --stage -- /home/azureuser/carga_de_datos/mPrediccionMonthly.py [432ms]
+2024-07-07 17:21:11.526 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2024-07-07 17:21:11.549 [info] > git config --get commit.template [23ms]
+2024-07-07 17:21:11.552 [info] > git cat-file -s ee838bc13905b00f246d379225ff2c5bd6b5354b [31ms]
+2024-07-07 17:21:11.555 [info] > git config --local branch.master.vscode-merge-base [21ms]
+2024-07-07 17:21:11.560 [warning] git config failed: Failed to execute git
+2024-07-07 17:21:11.669 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [87ms]
+2024-07-07 17:21:11.676 [info] > git reflog master --grep-reflog=branch: Created from *. [107ms]
+2024-07-07 17:21:11.722 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [36ms]
+2024-07-07 17:21:11.724 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-07 17:21:12.193 [info] > git check-ignore -v -z --stdin [1156ms]
+2024-07-07 17:21:12.802 [info] > git status -z -uall [1127ms]
+2024-07-07 17:21:12.898 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [84ms]
+2024-07-07 17:21:12.968 [info] > git config --local branch.master.vscode-merge-base [47ms]
+2024-07-07 17:21:12.972 [warning] git config failed: Failed to execute git
+2024-07-07 17:21:12.988 [info] > git reflog master --grep-reflog=branch: Created from *. [6ms]
+2024-07-07 17:21:12.999 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [5ms]
+2024-07-07 17:21:13.001 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref

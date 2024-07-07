@@ -1,0 +1,47 @@
+2024-07-07 18:38:28.624 [info] Log level: Info
+2024-07-07 18:38:28.625 [info] Validating found git in: "git"
+2024-07-07 18:38:28.625 [info] Using git "2.25.1" from "git"
+2024-07-07 18:38:28.625 [info] > git rev-parse --show-toplevel [16ms]
+2024-07-07 18:38:28.625 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-07-07 18:38:28.625 [info] Open repository: /home/azureuser
+2024-07-07 18:38:28.626 [info] > git config --get commit.template [4ms]
+2024-07-07 18:38:28.626 [info] > git rev-parse --show-toplevel [6ms]
+2024-07-07 18:38:28.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-07-07 18:38:28.626 [info] > git rev-parse --show-toplevel [10ms]
+2024-07-07 18:38:28.627 [info] > git rev-parse --show-toplevel [9ms]
+2024-07-07 18:38:28.837 [info] > git rev-parse --show-toplevel [156ms]
+2024-07-07 18:38:28.917 [info] > git rev-parse --show-toplevel [64ms]
+2024-07-07 18:38:28.928 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:28.939 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:28.946 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:28.955 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:28.964 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-07 18:38:28.973 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:28.981 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:28.990 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-07 18:38:28.998 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:29.007 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-07 18:38:29.017 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:29.029 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-07 18:38:29.039 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-07 18:38:29.048 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 18:38:29.572 [info] > git status -z -uall [967ms]
+2024-07-07 18:38:29.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2024-07-07 18:38:29.627 [info] > git config --get commit.template [18ms]
+2024-07-07 18:38:29.628 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-07-07 18:38:29.628 [warning] git config failed: Failed to execute git
+2024-07-07 18:38:29.638 [info] > git check-ignore -v -z --stdin [436ms]
+2024-07-07 18:38:29.639 [info] > git reflog master --grep-reflog=branch: Created from *. [4ms]
+2024-07-07 18:38:29.643 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-07-07 18:38:29.647 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms]
+2024-07-07 18:38:29.647 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-07 18:38:30.680 [info] > git status -z -uall [1034ms]
+2024-07-07 18:38:30.719 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2024-07-07 18:38:30.737 [info] > git config --local branch.master.vscode-merge-base [16ms]
+2024-07-07 18:38:30.737 [warning] git config failed: Failed to execute git
+2024-07-07 18:38:30.753 [info] > git reflog master --grep-reflog=branch: Created from *. [8ms]
+2024-07-07 18:38:30.760 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-07-07 18:38:30.760 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-07 18:38:31.413 [info] > git show --textconv :carga_de_datos/mPrediccionMonthly.py [104ms]
+2024-07-07 18:38:31.445 [info] > git ls-files --stage -- /home/azureuser/carga_de_datos/mPrediccionMonthly.py [121ms]
+2024-07-07 18:38:31.452 [info] > git cat-file -s ee838bc13905b00f246d379225ff2c5bd6b5354b [2ms]

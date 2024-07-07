@@ -1,0 +1,22 @@
+2024-06-30 15:23:15.896 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-06-30 15:23:16.438 [info] [Info  - 3:23:16 PM] (58722) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-30 15:23:16.441 [info] [Info  - 3:23:16 PM] (58722) Server root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-30 15:23:16.441 [info] [Info  - 3:23:16 PM] (58722) Starting service instance "azureuser"
+2024-06-30 15:23:16.471 [info] Auto-Indent enabled
+2024-06-30 15:23:16.491 [info] Auto-Indent enabled
+2024-06-30 15:23:16.491 [info] [Info  - 3:23:16 PM] (58722) Setting pythonPath for service "azureuser": "/bin/python3"
+2024-06-30 15:23:16.493 [info] [Info  - 3:23:16 PM] (58722) Setting environmentName for service "azureuser": "3.8.10 (global)"
+2024-06-30 15:23:16.522 [info] [Info  - 3:23:16 PM] (58722) Assuming Python version 3.8.10.final.0
+2024-06-30 15:23:16.722 [info] [Info  - 3:23:16 PM] (58722) Auto-excluding /home/azureuser/airflow/env
+2024-06-30 15:23:21.970 [info] [Info  - 3:23:21 PM] (58722) Found 19 source files
+2024-06-30 15:23:21.973 [info] Auto-Indent enabled
+2024-06-30 15:23:22.028 [info] [Info  - 3:23:22 PM] (58722) Background analysis(1) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-30 15:23:22.028 [info] [Info  - 3:23:22 PM] (58722) Background analysis(1) started
+2024-06-30 15:23:23.510 [info] [Info  - 3:23:23 PM] (58722) Indexer background runner(2) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-30 15:23:23.511 [info] [Info  - 3:23:23 PM] (58722) Indexing(2) started
+2024-06-30 15:23:24.966 [info] [Info  - 3:23:24 PM] (58722) scanned(2) 277 files over 1 exec env
+2024-06-30 15:23:25.695 [info] [Info  - 3:23:25 PM] (58722) indexed(2) 193 files over 1 exec env
+2024-06-30 15:23:25.733 [info] [Info  - 3:23:25 PM] (58722) [BG(1)] Long operation: checking: file:///home/azureuser/mqtt_publisher_def.py (2847ms)
+2024-06-30 15:23:25.736 [info] [Info  - 3:23:25 PM] (58722) [BG(1)] Long operation: analyzing: file:///home/azureuser/mqtt_publisher_def.py (3673ms)
+2024-06-30 15:23:25.900 [info] [Info  - 3:23:25 PM] (58722) Indexing finished(2).
+2024-06-30 15:38:45.760 [info] [Info  - 3:38:45 PM] (58722) [BG(1)] Long operation: SemanticTokens full at file:///home/azureuser/ETL.py (2361ms)

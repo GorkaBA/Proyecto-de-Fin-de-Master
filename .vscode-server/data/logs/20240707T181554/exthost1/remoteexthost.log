@@ -1,0 +1,11 @@
+2024-07-07 18:15:56.227 [info] Extension host with pid 49620 started
+2024-07-07 18:15:56.243 [info] Lock '/home/azureuser/.vscode-server/data/User/workspaceStorage/f94eb63dd18e63b00ca0afaa1ec4ee2c/vscode.lock': Lock acquired.
+2024-07-07 18:15:56.397 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-07 18:15:56.613 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-07 18:15:56.748 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-07 18:15:56.748 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-07 18:15:57.057 [info] Eager extensions activated
+2024-07-07 18:15:57.057 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-07 18:15:57.057 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-07 18:21:39.305 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-07-07 19:22:19.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10062

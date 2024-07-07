@@ -1,0 +1,17 @@
+2024-07-05 20:14:49.934 [info] Extension host with pid 2226 started
+2024-07-05 20:14:49.934 [error] Error: EEXIST: file already exists, open '/home/azureuser/.vscode-server/data/User/workspaceStorage/177487496fcbaee4b86704bf3ad4a37c/vscode.lock'
+2024-07-05 20:14:49.944 [info] Lock '/home/azureuser/.vscode-server/data/User/workspaceStorage/177487496fcbaee4b86704bf3ad4a37c/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-07-05 20:14:49.953 [info] Lock '/home/azureuser/.vscode-server/data/User/workspaceStorage/177487496fcbaee4b86704bf3ad4a37c/vscode.lock': The pid 2121 appears to be gone.
+2024-07-05 20:14:49.953 [info] Lock '/home/azureuser/.vscode-server/data/User/workspaceStorage/177487496fcbaee4b86704bf3ad4a37c/vscode.lock': Deleting a stale lock.
+2024-07-05 20:14:49.963 [info] Lock '/home/azureuser/.vscode-server/data/User/workspaceStorage/177487496fcbaee4b86704bf3ad4a37c/vscode.lock': Lock acquired.
+2024-07-05 20:14:50.148 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-07-05 20:14:50.149 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-05 20:14:50.149 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-07-05 20:14:51.167 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-05 20:14:51.318 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-05 20:14:51.319 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-05 20:14:51.664 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-07-05 20:14:51.664 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-07-05 20:14:52.675 [info] Eager extensions activated
+2024-07-05 20:14:52.675 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-05 20:14:52.676 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

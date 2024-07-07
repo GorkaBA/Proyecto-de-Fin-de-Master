@@ -1,0 +1,21 @@
+2024-07-04 15:56:24.055 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-07-04 15:56:24.571 [info] [Info  - 3:56:24 PM] (2298) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-07-04 15:56:24.571 [info] [Info  - 3:56:24 PM] (2298) Server root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-04 15:56:24.573 [info] [Info  - 3:56:24 PM] (2298) Starting service instance "azureuser"
+2024-07-04 15:56:24.611 [info] Auto-Indent enabled
+2024-07-04 15:56:24.630 [info] Auto-Indent enabled
+2024-07-04 15:56:24.630 [info] [Info  - 3:56:24 PM] (2298) Setting pythonPath for service "azureuser": "/bin/python3"
+2024-07-04 15:56:24.631 [info] [Info  - 3:56:24 PM] (2298) Setting environmentName for service "azureuser": "3.8.10 (global)"
+2024-07-04 15:56:24.674 [info] [Info  - 3:56:24 PM] (2298) Assuming Python version 3.8.10.final.0
+2024-07-04 15:56:24.843 [info] [Info  - 3:56:24 PM] (2298) Auto-excluding /home/azureuser/airflow/env
+2024-07-04 15:56:30.278 [info] [Info  - 3:56:30 PM] (2298) Found 19 source files
+2024-07-04 15:56:30.287 [info] Auto-Indent enabled
+2024-07-04 15:56:30.337 [info] [Info  - 3:56:30 PM] (2298) Background analysis(1) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-07-04 15:56:30.338 [info] [Info  - 3:56:30 PM] (2298) Background analysis(1) started
+2024-07-04 15:56:31.865 [info] [Info  - 3:56:31 PM] (2298) Indexer background runner(2) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-07-04 15:56:31.865 [info] [Info  - 3:56:31 PM] (2298) Indexing(2) started
+2024-07-04 15:56:33.342 [info] [Info  - 3:56:33 PM] (2298) scanned(2) 277 files over 1 exec env
+2024-07-04 15:56:34.251 [info] [Info  - 3:56:34 PM] (2298) indexed(2) 193 files over 1 exec env
+2024-07-04 15:56:34.409 [info] [Info  - 3:56:34 PM] (2298) Indexing finished(2).
+2024-07-04 15:56:37.464 [info] [Info  - 3:56:37 PM] (2298) [BG(1)] Long operation: checking: file:///home/azureuser/ETL.py (6050ms)
+2024-07-04 15:56:37.465 [info] [Info  - 3:56:37 PM] (2298) [BG(1)] Long operation: analyzing: file:///home/azureuser/ETL.py (7106ms)

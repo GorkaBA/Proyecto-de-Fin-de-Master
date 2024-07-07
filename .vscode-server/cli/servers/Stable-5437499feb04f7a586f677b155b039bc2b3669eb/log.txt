@@ -1,0 +1,24 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-db1661ca-a149-4b92-b6e7-1c89fa374187
+Extension host agent listening on /tmp/code-db1661ca-a149-4b92-b6e7-1c89fa374187
+
+[18:15:54] 
+
+
+
+
+[18:15:54] Extension host agent started.
+[18:15:54] [<unknown>][28ce76da][ExtensionHostConnection] New connection established.
+[18:15:54] [<unknown>][68b75aba][ManagementConnection] New connection established.
+[18:15:54] [<unknown>][28ce76da][ExtensionHostConnection] <49620> Launched Extension Host Process.
+[18:16:25] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/azureuser/.vscode-server/data/logs/20240630T120405/exthost2/ms-python.debugpy' failed: No such file or directory (EUNKNOWN) (path: /home)
+[18:16:25] [File Watcher (universal)] restarting watcher from error in watch request (retrying request): inotify_add_watch on '/home/azureuser/.vscode-server/data/logs/20240630T120405/exthost2/ms-python.debugpy' failed: No such file or directory ({"path":"/home","excludes":["**/.git/objects/**","**/.git/subtree-cache/**","**/node_modules/*/**","**/.hg/store/**","/home/azureuser/.vscode-server/extensions/**"],"recursive":true})
+New EH opened, aborting shutdown
+[18:20:54] New EH opened, aborting shutdown
+[19:19:31] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

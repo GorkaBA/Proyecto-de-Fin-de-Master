@@ -1,0 +1,13 @@
+2024-07-07 16:55:52.694 [info] 
+
+
+
+
+2024-07-07 16:55:52.717 [info] Extension host agent started.
+2024-07-07 16:55:53.057 [info] [<unknown>][22be98e4][ManagementConnection] New connection established.
+2024-07-07 16:55:53.058 [info] [<unknown>][aeaff486][ExtensionHostConnection] New connection established.
+2024-07-07 16:55:53.174 [info] [<unknown>][aeaff486][ExtensionHostConnection] <2459> Launched Extension Host Process.
+2024-07-07 16:56:18.960 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/azureuser/.vscode-server/data/logs/20240630T115315/exthost5/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /home)
+2024-07-07 16:56:18.961 [error] [File Watcher (universal)] restarting watcher from error in watch request (retrying request): inotify_add_watch on '/home/azureuser/.vscode-server/data/logs/20240630T115315/exthost5/vscode.github' failed: No such file or directory ({"path":"/home","excludes":["**/.git/objects/**","**/.git/subtree-cache/**","**/node_modules/*/**","**/.hg/store/**","/home/azureuser/.vscode-server/extensions/**"],"recursive":true})
+2024-07-07 17:00:52.719 [info] New EH opened, aborting shutdown
+2024-07-07 17:42:42.710 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

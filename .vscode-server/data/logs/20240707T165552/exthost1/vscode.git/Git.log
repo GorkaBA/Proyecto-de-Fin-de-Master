@@ -1,0 +1,80 @@
+2024-07-07 16:55:55.795 [info] Log level: Info
+2024-07-07 16:55:55.795 [info] Validating found git in: "git"
+2024-07-07 16:55:55.795 [info] Using git "2.25.1" from "git"
+2024-07-07 16:55:55.795 [info] > git rev-parse --show-toplevel [25ms]
+2024-07-07 16:55:55.795 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-07 16:55:55.795 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-07 16:55:55.795 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-07 16:55:55.796 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 16:55:55.796 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-07 17:03:22.070 [info] > git rev-parse --show-toplevel [0ms]
+2024-07-07 17:03:22.076 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2024-07-07 17:03:22.087 [info] Open repository: /home/azureuser
+2024-07-07 17:03:22.095 [info] No remotes found in the git config file.
+2024-07-07 17:03:22.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-07 17:03:22.096 [warning] No such branch: master.
+2024-07-07 17:03:22.096 [info] > git config --get commit.template [4ms]
+2024-07-07 17:03:22.748 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-07 17:03:22.865 [info] > git status -z -uall [766ms] (cancelled)
+2024-07-07 17:03:22.927 [info] > git show --textconv :docker-compose.yaml [2ms]
+2024-07-07 17:03:22.928 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [1ms]
+2024-07-07 17:03:25.964 [info] > git config --get commit.template [4ms]
+2024-07-07 17:03:25.984 [info] No remotes found in the git config file.
+2024-07-07 17:03:25.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-07-07 17:03:25.987 [warning] No such branch: master.
+2024-07-07 17:03:26.798 [info] > git status -z -uall [800ms] (cancelled)
+2024-07-07 17:03:33.888 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [1ms]
+2024-07-07 17:03:34.039 [info] > git show --textconv :docker-compose.yaml [0ms]
+2024-07-07 17:03:58.299 [info] > git check-ignore -v -z --stdin [1ms]
+2024-07-07 17:05:50.365 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [21ms]
+2024-07-07 17:05:50.369 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [2ms]
+2024-07-07 17:05:50.497 [info] > git show --textconv :docker-compose.yaml [16ms]
+2024-07-07 17:06:01.188 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [22ms]
+2024-07-07 17:06:01.192 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [2ms]
+2024-07-07 17:06:01.330 [info] > git show --textconv :docker-compose.yaml [28ms]
+2024-07-07 17:06:25.114 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [43ms]
+2024-07-07 17:06:25.117 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:06:25.256 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:09:26.830 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [31ms]
+2024-07-07 17:09:26.834 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:09:26.969 [info] > git show --textconv :docker-compose.yaml [23ms]
+2024-07-07 17:09:47.310 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [30ms]
+2024-07-07 17:09:47.318 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:09:47.453 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:10:19.162 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [30ms]
+2024-07-07 17:10:19.166 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:10:19.295 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:10:44.276 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [30ms]
+2024-07-07 17:10:44.279 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:10:44.429 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:20:51.445 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [40ms]
+2024-07-07 17:20:51.451 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:20:51.584 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:42:43.955 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [1ms]
+2024-07-07 17:42:43.955 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-07 17:43:03.140 [info] > git rev-parse --show-toplevel [1ms]
+2024-07-07 17:43:03.143 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-07-07 17:43:03.145 [info] Open repository: /home/azureuser
+2024-07-07 17:43:03.151 [info] No remotes found in the git config file.
+2024-07-07 17:43:03.152 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-07 17:43:03.152 [warning] No such branch: master.
+2024-07-07 17:43:03.152 [info] > git config --get commit.template [4ms]
+2024-07-07 17:43:03.768 [info] > git check-ignore -v -z --stdin [2ms]
+2024-07-07 17:43:03.876 [info] > git status -z -uall [722ms] (cancelled)
+2024-07-07 17:47:30.311 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [20ms]
+2024-07-07 17:47:30.314 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:47:30.440 [info] > git show --textconv :docker-compose.yaml [14ms]
+2024-07-07 17:50:34.241 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [67ms]
+2024-07-07 17:50:34.247 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:50:34.420 [info] > git show --textconv :docker-compose.yaml [47ms]
+2024-07-07 17:51:38.915 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [38ms]
+2024-07-07 17:51:38.921 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [2ms]
+2024-07-07 17:51:39.063 [info] > git show --textconv :docker-compose.yaml [32ms]
+2024-07-07 17:52:16.064 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [31ms]
+2024-07-07 17:52:16.068 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:52:16.246 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:54:04.431 [info] > git ls-files --stage -- /home/azureuser/docker-compose.yaml [31ms]
+2024-07-07 17:54:04.434 [info] > git cat-file -s 580ccc48bcd6aa27b8a33744c868df5a02aefe97 [1ms]
+2024-07-07 17:54:04.569 [info] > git show --textconv :docker-compose.yaml [24ms]
+2024-07-07 17:54:04.634 [info] > git check-ignore -v -z --stdin [30ms]
+2024-07-07 17:54:19.947 [info] > git check-ignore -v -z --stdin [66ms]

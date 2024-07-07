@@ -1,0 +1,26 @@
+2024-06-30 15:19:26.448 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.1)
+2024-06-30 15:19:26.983 [info] [Info  - 3:19:26 PM] (58306) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-30 15:19:26.984 [info] [Info  - 3:19:26 PM] (58306) Server root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-30 15:19:26.984 [info] [Info  - 3:19:26 PM] (58306) Starting service instance "home"
+2024-06-30 15:19:27.022 [info] Auto-Indent enabled
+2024-06-30 15:19:27.054 [info] Auto-Indent enabled
+2024-06-30 15:19:27.054 [info] [Info  - 3:19:27 PM] (58306) Setting pythonPath for service "home": "/bin/python3"
+2024-06-30 15:19:27.054 [info] [Info  - 3:19:27 PM] (58306) Setting environmentName for service "home": "3.8.10 (global)"
+2024-06-30 15:19:27.116 [info] [Info  - 3:19:27 PM] (58306) Assuming Python version 3.8.10.final.0
+2024-06-30 15:19:27.259 [info] [Info  - 3:19:27 PM] (58306) Auto-excluding /home/azureuser/airflow/env
+2024-06-30 15:19:37.269 [info] [Error - 3:19:37 PM] (58306) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2024-06-30 15:19:43.808 [info] [Info  - 3:19:43 PM] (58306) Found 19 source files
+2024-06-30 15:19:43.829 [info] Auto-Indent enabled
+2024-06-30 15:19:43.835 [info] [Info  - 3:19:43 PM] (58306) Background analysis(1) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-30 15:19:43.837 [info] [Info  - 3:19:43 PM] (58306) Background analysis(1) started
+2024-06-30 15:19:45.170 [info] [Info  - 3:19:45 PM] (58306) Indexer background runner(2) root directory: file:///home/azureuser/.vscode-server/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-30 15:19:45.170 [info] [Info  - 3:19:45 PM] (58306) Indexing(2) started
+2024-06-30 15:19:46.289 [info] [Info  - 3:19:46 PM] (58306) scanned(2) 277 files over 1 exec env
+2024-06-30 15:19:46.778 [info] [Info  - 3:19:46 PM] (58306) indexed(2) 193 files over 1 exec env
+2024-06-30 15:19:46.888 [info] [Info  - 3:19:46 PM] (58306) Indexing finished(2).
